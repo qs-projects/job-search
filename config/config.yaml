@@ -1,1 +1,32 @@
+keywords:
+  include:
+    - epic
+    - analyst
+    - manager
+
+  exclude: []
+
+settings:
+  location: "Ottawa, Ontario"
+  check_interval_minutes: 30
+
+notifications:
+  email:
+    enabled: true
+
+job_sites:
+  - name: CHEO
+    enabled: true
+
+  - name: The Ottawa Hospital
+    enabled: true
+
+  - name: The Royal
+    enabled: true
+
+  - name: Tribe Medical
+    enabled: true
+
+  - name: InVita Healthcare Technologies
+    enabled: true
 
